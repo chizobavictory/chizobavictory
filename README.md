@@ -13,7 +13,7 @@
   </tr>
  </p>
  
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="okarachidera" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chizobavictory" alt="chizobavictory" /></a> </p>
 
 - 🔭 I’m currently working on **Socket.io**
 - 🌱 I work with **Node JS**
