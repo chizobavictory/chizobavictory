@@ -15,10 +15,10 @@
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chizobavictory" alt="chizobavictory" /></a> </p>
 
-- 🔭 I’m currently working on **Socket.io**
+- 🔭 I’m currently working with Decagon Hq**
 - 🌱 I work with **Node JS**
 - 💬 Ask me about **TypeScript, Express, React, Backend and Frontend development**
-- 📫 How to reach me **okara.chidera@gmail.com**
+- 📫 How to reach me **chizoba.victory1@gmail.com**
 - ⚡ Fun fact **I love football**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
