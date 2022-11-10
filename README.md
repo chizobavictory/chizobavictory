@@ -5,7 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chizoba Victory;A+MERN+stack+developer;with+over+2+years+Experience;building+unique+softwares;that+solves+problems;I+am+skilled+in+TypeScript;Javascript+,Node+JS+,Express;GraphQl+,React+,NextJS;MongoDB+,Postgres+,MsSQL;Oracle+,GCP+,AWS+,Docker;Kubernates+,VMware+,MCP;HTML/CSS+,PHP;and+many+others&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
+ <p align="center">
 <img src="https://www.codewars.com/users/chizobavictory/badges/large" alt="Chizoba Victory Codewars Badge">
+</p>
 
 <p align="center">
   <tr>
