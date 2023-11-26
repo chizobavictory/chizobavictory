@@ -18,8 +18,8 @@
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chizobavictory" alt="chizobavictory" /></a> </p>
 
-- 🔭 I’m currently working with Decagon Hq**
-- 🌱 I work with **Node JS**
+- 🔭 I’m currently working with Schulltech**
+- 🌱 I work with **Node JS, React**
 - 💬 Ask me about **TypeScript, Express, React, Backend and Frontend development**
 - 📫 How to reach me **chizoba.victory1@gmail.com**
 - ⚡ Fun fact **I love football**
